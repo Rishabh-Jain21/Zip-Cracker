@@ -6,7 +6,7 @@ def extract_zip(zfile, password):
         zfile.extractall("Password Protected123", pwd=bytes(password.encode()))
         print("[+] Password Found: "+password+'\n')
     except Exception as e:
-        pass
+        print(e)
 
 
 zfile = zipfile.ZipFile("test.zip")
