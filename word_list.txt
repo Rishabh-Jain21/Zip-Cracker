@@ -1,0 +1,7 @@
+password
+pass123
+abcd1234
+123456789
+hello
+qwerty
+admin
