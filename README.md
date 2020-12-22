@@ -9,3 +9,5 @@ python crack.py -f <zip file path> -w <word list path> -e [extract folder name]
 ```
 
 1. Download a updated word list.
+   Can be downloaded from
+   [here](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
